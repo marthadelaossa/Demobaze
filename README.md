@@ -12,8 +12,8 @@ Requisitos de entrega:
    Ingresar a la página https://www.demoblaze.com/
 
 ### Caso de uso:
-Realizar el registro de un nuevo usuario en la pagina Product Store.
-Realizar una compra, añadiendo productos al carrito.
+*Realizar el registro de un nuevo usuario en la pagina Product Store.
+*Realizar una compra, añadiendo productos al carrito.
 
 NOTA. Tenga en cuenta que, su automatización debe ser genérica, es decir, el flujo funcional realizar
 una compra, tiene diferentes categorias (Phones, Laptops, Monitors) y dentro de estas categorias
